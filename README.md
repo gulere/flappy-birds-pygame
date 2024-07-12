@@ -8,3 +8,7 @@
 
 ### Assets:
 Audio and image assets were sourced from a fellow [Github contributor](https://github.com/zhaolingzhi/FlapPyBird-master).
+
+### Some screenshots:
+
+![Loading screen](pythonProject/screenshot_fb_screen.png "loading screen")
