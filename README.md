@@ -12,3 +12,7 @@ Audio and image assets were sourced from a fellow [Github contributor](https://g
 ### Some screenshots:
 
 ![Loading screen](pythonProject/screenshot_fb_screen.png "loading screen")
+*The loading screen*
+
+![gameplay screen](pythonProject/screenshot_fb_gameplay.png "gameplay")
+*The game play*
